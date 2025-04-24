@@ -3,7 +3,10 @@
 This is a simple Model Context Protocol (MCP) server implementation that exposes several utility functions as tools.
 
 ## Purpose
-Andi's personal MCP server test on glama.ai
+Andi's personal MCP server test on glama.ai / Used in cursor with:
+```
+pip install "mcp[cli]"
+```
 
 ## Available Tools
 
