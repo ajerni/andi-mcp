@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "my-mcp": {
+      "command": "mcp run /Users/andi/projekte/mcp/mcp-test.py"
+    }
+  }
+}
