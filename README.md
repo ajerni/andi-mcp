@@ -1,29 +1,9 @@
 # MCP Server
 
 This is a simple Model Context Protocol (MCP) server implementation that exposes several utility functions as tools.
-Andi's personal MCP server test.
 
-## Installation
-
-This project uses [uv](https://github.com/astral-sh/uv) for dependency management. To install the dependencies:
-
-```bash
-uv pip install -r requirements.txt
-```
-
-If you don't have uv installed, you can install it with:
-
-```bash
-curl -sSf https://astral.sh/uv/install.sh | bash
-```
-
-## Usage
-
-Run the server:
-
-```bash
-python mcp-test.py
-```
+## Purpose
+Andi's personal MCP server test on glama.ai
 
 ## Available Tools
 
