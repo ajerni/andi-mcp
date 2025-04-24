@@ -1,7 +1,7 @@
 # MCP Server
 
 This is a simple Model Context Protocol (MCP) server implementation that exposes several utility functions as tools.
-Andi's personal MCP server.
+Andi's personal MCP server test.
 
 ## Installation
 
